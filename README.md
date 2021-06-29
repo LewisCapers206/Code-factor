@@ -4,6 +4,6 @@ that mess up the images and styles once they are consolidated. Overall I believe
 as best as I can. 
 
 
-![my-screenshot](images/Code-refactor.1.png)
+![my screenshot](images/Code-refactor.1.png)
 
 [Github]( https://lewiscapers206.github.io/Code-factor/)
